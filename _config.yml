@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Setup
+title:            ProFag:Boilerplate
+tagline:          'Programmering for fagets skyld'
+description:      'Nettressurser for kurs i realfaglig programmering for lærere.'
+baseurl:          
+
+author:
+  name:           'UiO ProFag'
+
+paginate:         5
+
+exclude: []
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+# Custom vars
+sidebar_home_link:  false
+# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+                                # page. If you change your paginate_path,
+                                # set this to the root of the paginate_path
+                                # to enable a separate blog link.
+                              
