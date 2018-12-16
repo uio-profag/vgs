@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            ProFag:Boilerplate
+title:            'ProFag:\nBoilerplate'
 tagline:          'Programmering for fagets skyld'
 description:      'Nettressurser for kurs i realfaglig programmering for lærere.'
 baseurl:          
