@@ -4,7 +4,7 @@ python:
  - 3.6
 
 script:
-  - /bin/bash .make.sh
+  - git clone https://github.com/uio-profag/coursepage-jekyllcode && mv coursepage-jekyllcode/* && python convert_notebooks.py
 
 deploy:
   provider: pages
@@ -13,4 +13,3 @@ deploy:
   keep-history: true
   on:
     branch: master
-    
