@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Moduler
+title: Kursmoduler
 sidebar_link: True
 ---
 
