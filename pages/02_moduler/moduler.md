@@ -5,6 +5,7 @@ sidebar_link: True
 ---
 
 
+
 {% include module_links.html 
 title="Hva kan vi bruke programmering til?" 
 forelesningsnotat="./hva_programmering" 
