@@ -17,10 +17,10 @@ published=true
 
 
 {% include module_links.html 
-title="Tall, variabler, datatyper" 
-forelesningsnotat="./tall_variabler_datatyper" 
+title="Input" 
+forelesningsnotat="./Input" 
 slides="" 
-oppgaver="./input_output_beslutninger_funksjoner/input_output_beslutninger_funksjoner_oppgaver"
+oppgaver=""
 losningsforslag = ""
 published=true
 %}
