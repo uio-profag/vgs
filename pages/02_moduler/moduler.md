@@ -26,7 +26,7 @@ published=true
 %}
 
 {% include module_links.html 
-title="" 
+title="Beslutninger" 
 forelesningsnotat="./Tester" 
 slides="" 
 oppgaver=""
