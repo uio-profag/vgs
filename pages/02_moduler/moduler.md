@@ -25,6 +25,16 @@ losningsforslag = ""
 published=true
 %}
 
+{% include module_links.html 
+title="Beslutninger" 
+forelesningsnotat="./Tester" 
+slides="" 
+oppgaver=""
+losningsforslag = ""
+published=true
+%}
+
+
 
 {% include module_links.html 
 title="Plotting" 
