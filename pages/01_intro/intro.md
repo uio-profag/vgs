@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bli klar til kurs
+title: Forberedelser
 sidebar_link: true
 ---
 
