@@ -18,7 +18,7 @@ published=true
 
 {% include module_links.html 
 title="" 
-forelesningsnotat="./Input" 
+forelesningsnotat="./input" 
 slides="" 
 oppgaver=""
 losningsforslag = ""
@@ -27,7 +27,7 @@ published=true
 
 {% include module_links.html 
 title="Beslutninger" 
-forelesningsnotat="./Tester" 
+forelesningsnotat="./tester" 
 slides="" 
 oppgaver=""
 losningsforslag = ""
