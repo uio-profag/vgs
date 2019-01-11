@@ -17,7 +17,7 @@ published=true
 
 
 {% include module_links.html 
-title="" 
+title="Input" 
 forelesningsnotat="./input" 
 slides="" 
 oppgaver=""
