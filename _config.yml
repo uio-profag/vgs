@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            'ProFag:<br>VGS'
 tagline:          'Programmering for fagets skyld'
 description:      'Nettressurser for kurs i realfaglig programmering for lærere.'
-baseurl:          
+baseurl: /vgs
 
 author:
   name:           'UiO ProFag'
