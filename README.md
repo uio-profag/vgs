@@ -8,6 +8,8 @@ Dette innholdet lenkes til med innholdsfortegnelsen i `toc.yml`. Denne kan se no
 
 Man kan legge inn enten markdown-dokumenter eller jupyter notebooks. I tilfellet jupyter notebook vil denne automatisk konverteres til markdown før nettsiden blir til. 
 
+> Det tar noen minutter fra endringer er lagt inn til de synes på nettsiden. Det skyldes at det starter en datamaskin i skyen som henter, konverterer og preparerer nettsiden før den sendes tilbake til github for framvisning. 
+
 Mappen `_includes` finnes for at vi skal kunne ha innholdstyper som ikke støttes av `jupyter-book`. I skrivende stund bruker vi det kun for å kunne embede youtube-videoer med fornuftig skalering med viduet. 
 
 Mappen `assets` inneholder filer som brukes til design av siden. I skrivende stund ligger det kun en uio-logo der. 
