@@ -1,0 +1,37 @@
+- title: "Profag:VGS"
+  url: /intro/intro
+  not_numbered: true
+  sections:
+  - title: "Installasjon på mac"
+    url: /intro/mac/anaconda_mac
+    not_numbered: true
+
+- title: "Begynneropplæring i python for realfagslærere i videregående skole"
+  url: /begynneropplaring/begynneropplaring
+  not_numbered: false
+  expand_sections: true
+  sections: 
+  - title: "Funksjoner" 
+    url: /begynneropplaring/funksjoner
+    not_numbered: true
+  - title: "Input" 
+    url: /begynneropplaring/input
+    not_numbered: true
+  - title: "Tester" 
+    url: /begynneropplaring/tester
+    not_numbered: true
+
+- title: "Programmering styrker fagene"
+  url: /styrker/styrker
+  not_numbered: false
+  expand_sections: true
+
+- title: "Programmering endrer fagene"
+  url: /endrer/endrer
+  not_numbered: false
+  expand_sections: trues
+
+- title: "Oppfølging"
+  url: /oppfolging/oppfolging
+  not_numbered: true
+  expand_sections: true

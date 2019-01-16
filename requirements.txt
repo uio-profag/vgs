@@ -1,2 +1,8 @@
-numpy
 nbconvert
+nbclean
+pyyaml
+pandas
+numpy
+datascience
+folium
+matplotlib
