@@ -11,15 +11,14 @@
   not_numbered: false
   expand_sections: true
   sections: 
-  - title: "Funksjoner" 
-    url: /begynneropplaring/funksjoner
-    not_numbered: true
+  - title: "Tall og variable"
+    url: /begynneropplaring/tall_variable
   - title: "Input" 
     url: /begynneropplaring/input
-    not_numbered: true
   - title: "Tester" 
     url: /begynneropplaring/tester
-    not_numbered: true
+  - title: "Funksjoner" 
+    url: /begynneropplaring/funksjoner
 
 - title: "Programmering styrker fagene"
   url: /styrker/styrker
