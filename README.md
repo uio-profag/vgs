@@ -1,6 +1,6 @@
 # Kursside for ProFag:VGS
 
-[![Build Status](https://travis-ci.com/uio-profag/vgs.svg?branch=master)](https://travis-ci.com/uio-profag/vgs)
+[![Build Status](https://travis-ci.org/uio-profag/vgs.svg?branch=master)](https://travis-ci.org/uio-profag/vgs)
 
 Innhold, i form av jupyter notebooks og markdown-filer, legges i `content` (og underdirectories). 
 
