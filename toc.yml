@@ -17,6 +17,8 @@
     url: /begynneropplaring/input
   - title: "Tester" 
     url: /begynneropplaring/tester
+  - title: "Plotting"
+    url: /begynneropplaring/lister_arrays_plotting
   - title: "Funksjoner" 
     url: /begynneropplaring/funksjoner
 
