@@ -26,6 +26,7 @@
   url: /styrker/styrker
   not_numbered: false
   expand_sections: true
+  sections:
   - title: "Numeriske metoder"
     url: /styrker/numeriske_metoder/numeriske_metoder
 
