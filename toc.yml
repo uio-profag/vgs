@@ -26,6 +26,8 @@
   url: /styrker/styrker
   not_numbered: false
   expand_sections: true
+  - title: "Numeriske metoder"
+  - url: /styrker/numeriske_metoder/numeriske_metoder
 
 - title: "Programmering endrer fagene"
   url: /endrer/endrer
