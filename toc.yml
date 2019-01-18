@@ -10,16 +10,16 @@
   url: /begynneropplaring/begynneropplaring
   not_numbered: false
   expand_sections: true
-  sections: 
+  sections:
   - title: "Tall og variable"
     url: /begynneropplaring/tall_variable
-  - title: "Input" 
+  - title: "Input"
     url: /begynneropplaring/input
-  - title: "Beslutninger" 
+  - title: "Beslutninger"
     url: /begynneropplaring/tester
   - title: "Plotting"
     url: /begynneropplaring/lister_arrays_plotting
-  - title: "Funksjoner" 
+  - title: "Funksjoner"
     url: /begynneropplaring/funksjoner
 
 - title: "Programmering styrker fagene"
@@ -27,7 +27,7 @@
   not_numbered: false
   expand_sections: true
   - title: "Numeriske metoder"
-  - url: /styrker/numeriske_metoder/numeriske_metoder
+    url: /styrker/numeriske_metoder/numeriske_metoder
 
 - title: "Programmering endrer fagene"
   url: /endrer/endrer
