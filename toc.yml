@@ -37,6 +37,11 @@
   sections:
   - title: "Fall med luftmotstand"
     url: /endrer/fall_med_luftmotstand
+  - title: "Data, data overalt"
+    url: /endrer/datasett
+  - title: "Sparing og renter"
+    url: /endrer/sparing_og_renter
+
 
 - title: "Oppfølging"
   url: /oppfolging/oppfolging
