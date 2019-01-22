@@ -34,6 +34,9 @@
   url: /endrer/endrer
   not_numbered: false
   expand_sections: trues
+  sections:
+  - title: "Fall med luftmotstand"
+    url: /endrer/fall_med_luftmotstand
 
 - title: "Oppfølging"
   url: /oppfolging/oppfolging
