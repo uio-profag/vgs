@@ -31,6 +31,8 @@
   sections:
   - title: "Numeriske metoder"
     url: /styrker/numeriske_metoder/numeriske_metoder
+  - title: "Sparing og renter"
+    url: /endrer/sparing_og_renter
 
 - title: "Programmering endrer fagene"
   url: /endrer/endrer
@@ -41,8 +43,6 @@
     url: /endrer/fall_med_luftmotstand
   - title: "Data, data overalt"
     url: /endrer/datasett
-  - title: "Sparing og renter"
-    url: /endrer/sparing_og_renter
 
 
 - title: "Oppfølging"
