@@ -26,6 +26,12 @@ ProFag er et intensivkurs der det blir best resultat om du jobber en del på ege
 
     <h3>For-løkker</h3>
     {% include youtubePlayer.html id="C3W_5_NjHFw" %}
+    
+    <h3>While-løkker</h3>
+    {% include youtubePlayer.html id="8VXQ2jw6Dpw" %}
+    
+    <h3>Funksjoner</h3>
+    {% include youtubePlayer.html id="PTsF6AIKIjg" %}
 
     </div>
 </div>
