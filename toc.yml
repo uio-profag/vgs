@@ -43,6 +43,8 @@
     url: /endrer/fall_med_luftmotstand
   - title: "Data, data overalt"
     url: /endrer/datasett
+  - title: "Modellering"
+    url: /endrer/modellering
 
 
 - title: "Oppfølging"
