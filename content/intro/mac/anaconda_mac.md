@@ -56,7 +56,7 @@ Første gang en fil kjøres kommer følgende vindu opp:
 
 ![Anbefalte innstillinger er slik som på dette bildet.](first_run.png)
 
-Dersom alt har gått bra skal du nå få opp en figur som viser $$A = t^2$$. Dersom dette ikke fungerer bør du ha fått opp en feilmelding.  
+Dersom alt har gått bra skal du nå få opp en figur som viser $A = t^2$. Dersom dette ikke fungerer bør du ha fått opp en feilmelding.  
 
 Dersom du skulle få behov for å installere moduler som mangler, gjør du det i "Environments" (Men det er lite trolig at det blir nødvendig). 
 
@@ -80,7 +80,7 @@ Du kan velge om du vil at figurer skal dukke opp *inline*, altså sammen med pro
 Etter å ha valgt *Automatic* kan du sjekke at alt er i orden ved å kjøre scriptet på nytt (trykke på play). Figuren skal nå komme opp i et eget vindu. Det kan hende du må restarte Spyder for at endringen skal tre i kraft. 
 
 ### Det var det hele
-Dersom alt har gått bra med installasjonen og testingen ned hit, så har du oppsettet klart for kurset. Vi sees.
+Dersom alt har gått bra med installasjonen og testingen ned hit, så har du oppsettet klart for kurset. 
 
 
 [anaconda]: https://www.anaconda.com/
