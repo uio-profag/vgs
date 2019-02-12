@@ -39,7 +39,7 @@ show_sidebar              : true  # Show the sidebar. Only set to false if your 
 collapse_inactive_chapters: true  # Whether to collapse the inactive chapters in the sidebar
 textbook_logo             : assets/images/uio_logo_small.svg  # A logo to be displayed at the top of your textbook sidebar
 textbook_logo_link        : https://uio-profag.github.io/vgs  # A link for the logo.
-sidebar_footer_text       : 'Presentert med <a href="https://github.com/jupyter/jupyter-book">Jupyter Book</a>'
+sidebar_footer_text       : 'Presentert med <a href="https://github.com/jupyter/jupyter-book">Jupyter Book</a> <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br>UiO:ProFag'
 
 #######################################################################################
 # Interact link settings
