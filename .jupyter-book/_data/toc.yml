@@ -1,0 +1,53 @@
+- title: "Forberedelser"
+  url: /intro/intro
+  not_numbered: true
+  sections:
+  - title: "Installasjon på mac"
+    url: /intro/mac/anaconda_mac
+    not_numbered: true
+
+- title: "Begynneropplæring i python for realfagslærere i videregående skole"
+  url: /begynneropplaring/begynneropplaring
+  not_numbered: false
+  expand_sections: true
+  sections:
+  - title: "Tall og variable"
+    url: /begynneropplaring/tall_variable
+  - title: "Input"
+    url: /begynneropplaring/input
+  - title: "Beslutninger"
+    url: /begynneropplaring/tester
+  - title: "Plotting"
+    url: /begynneropplaring/lister_arrays_plotting
+  - title: "Løkker"
+    url: /begynneropplaring/Dag1_Del4
+  - title: "Funksjoner"
+    url: /begynneropplaring/funksjoner
+
+- title: "Programmering styrker fagene"
+  url: /styrker/styrker
+  not_numbered: false
+  expand_sections: true
+  sections:
+  - title: "Numeriske metoder"
+    url: /styrker/numeriske_metoder/numeriske_metoder
+  - title: "Sparing og renter"
+    url: /endrer/sparing_og_renter
+
+- title: "Programmering endrer fagene"
+  url: /endrer/endrer
+  not_numbered: false
+  expand_sections: trues
+  sections:
+  - title: "Fall med luftmotstand"
+    url: /endrer/fall_med_luftmotstand
+  - title: "Data, data overalt"
+    url: /endrer/datasett
+  - title: "Modellering"
+    url: /endrer/modellering
+
+
+- title: "Oppfølging"
+  url: /oppfolging/oppfolging
+  not_numbered: true
+  expand_sections: true
