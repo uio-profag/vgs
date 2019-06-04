@@ -5,6 +5,9 @@
   - title: "Installasjon på mac"
     url: /intro/mac/anaconda_mac
     not_numbered: true
+  – title: "Installasjon på windows"
+    url: /intro/windows/anaconda_windows
+    not_numbered: true
 
 - title: "Begynneropplæring i python for realfagslærere i videregående skole"
   url: /begynneropplaring/begynneropplaring
